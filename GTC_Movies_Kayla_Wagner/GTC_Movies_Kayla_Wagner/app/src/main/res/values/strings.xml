@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GTC Movies</string>
+    <string name="share_favorites">Share Favorites</string>
+    <string name="favorite">Favorite</string>
+</resources>
